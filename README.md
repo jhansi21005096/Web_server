@@ -43,7 +43,7 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![output](?raw=true)
+![GitHub Logo](/images/logo.png)(.\webserveroutput.png)
 ## RESULT:
 this program is executed
 
